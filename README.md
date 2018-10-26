@@ -1,4 +1,4 @@
-# OpenCV-Library-for-Python
+# OpenCV-Library
 
 Copyright:   2016, AiR&D Inc. (http://a-i-r-d.co.jp/)<br>
 Author:      Kyoji Osada<br>
